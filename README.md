@@ -5,12 +5,13 @@ I enjoy being challenged and developing applications with an exponential learnin
 
 - 🏢 SDE at [LogiQuad Solutions](https://logiquad.com/).
 - 🌱 I'm currently honing my Full Stack development skills.
-- 🌍 I'm mostly active in the **React JS, Serverless & Node JS Community**.
-- ⚙️ I daily use `.html` `.css` `.scss` `.json` `.tsx` `.jsx` `.ts` `.js`
-<!-- - 🥅 2021 Goals: Contributing more to open source. -->
+- 🌍 I'm mostly active in the **JavaScript, React JS, Serverless & Node JS Community**.
+- ⚙️ I daily use `.js` `.ts` `.tsx` `.jsx` `.yml` `.html` `.css` `.json` 
 - 💬 Ask me about: **Full Stack development**, **Code Architecture**, **UI & UX**.
 - 📄 Find my resume [here](https://drive.google.com/file/d/1DLB4TtlYo_nyL6hwN7imeWtnLXZeexqN/view).
 - ⚡ Fun fact: I don't have girlfriend!
+<!-- - 🥅 2021 Goals: Contributing more to open source. -->
+
 ## Technologies & Tools 🛠️
 
 - **Front End**
@@ -19,7 +20,6 @@ I enjoy being challenged and developing applications with an exponential learnin
   [<img align="left" src=images/front-end/html-5.svg height=30>](https://www.w3schools.com/html/)
   [<img align="left" src=images/front-end/css-3.svg height=30>](https://www.w3schools.com/css/)
   [<img align="left" src=images/front-end/sass.svg height=30>](https://sass-lang.com/)
-
   [<img align="left" src=images/front-end/tailwindcss.svg height=30>](https://tailwindcss.com/)
   [<img align="left" src=images/front-end/js.svg height=30>](https://www.javascript.com/)
   [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
@@ -36,6 +36,7 @@ I enjoy being challenged and developing applications with an exponential learnin
   [<img align="left" src=images/back-end/node.svg height=30>](https://nodejs.org/en/)
   [<img align="left" src=images/back-end/express.svg height=30>](https://expressjs.com/)
   [<img align="left" src=images/back-end/json.svg height=30>](https://www.json.org/json-en.html)
+  [<img align="left" src=images/back-end/pylogo.svg height=30>](https://www.python.org/)
   [<img align="left" src=images/back-end/mongodb.svg height=30>](https://www.mongodb.com/)
   [<img align="left" src=images/cloud/aws.svg height=30>](https://aws.amazon.com/)
   [<img align="left" src=images/cloud/firebase.svg height=30>](https://firebase.google.com/)
