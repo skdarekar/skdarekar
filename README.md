@@ -20,17 +20,14 @@ I enjoy being challenged and developing applications with an exponential learnin
   [<img align="left" src=images/front-end/html-5.svg height=30>](https://www.w3schools.com/html/)
   [<img align="left" src=images/front-end/css-3.svg height=30>](https://www.w3schools.com/css/)
   [<img align="left" src=images/front-end/sass.svg height=30>](https://sass-lang.com/)
-  [<img align="left" src=images/front-end/bootstrap.svg height=30>](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+
   [<img align="left" src=images/front-end/tailwindcss.svg height=30>](https://tailwindcss.com/)
-  [<img align="left" src=images/front-end/ant-design.svg height=30>](https://ant.design/)
   [<img align="left" src=images/front-end/js.svg height=30>](https://www.w3schools.com/js/DEFAULT.asp)
   [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
   [<img align="left" src=images/front-end/es6.svg height=30>](https://www.w3schools.com/js/js_es6.asp)
   [<img align="left" src=images/front-end/react.svg height=30>](https://reactjs.org/)
   [<img align="left" src=images/front-end/react-router.svg height=30>](https://reactrouter.com/)
   [<img align="left" src=images/front-end/redux.svg height=30>](https://react-redux.js.org/)
-  [<img align="left" src=images/front-end/redux-saga.svg height=30>](https://redux-saga.js.org/)
-  [<img align="left" src=images/front-end/mobx.svg height=30>](https://mobx.js.org/)
   <br>
   <br>
 
@@ -39,11 +36,10 @@ I enjoy being challenged and developing applications with an exponential learnin
   <br>
   [<img align="left" src=images/back-end/node.svg height=30>](https://nodejs.org/en/)
   [<img align="left" src=images/back-end/express.svg height=30>](https://expressjs.com/)
-  [<img align="left" src=images/back-end/passport.svg height=30>](http://www.passportjs.org/)
   [<img align="left" src=images/back-end/json.svg height=30>](https://www.json.org/json-en.html)
   [<img align="left" src=images/back-end/mongodb.svg height=30>](https://www.mongodb.com/)
+  [<img align="left" src=images/cloud/aws.svg height=30>](https://aws.amazon.com/)
   [<img align="left" src=images/cloud/firebase.svg height=30>](https://firebase.google.com/)
-  [<img align="left" src=images/cloud/azure.svg height=30>](https://azure.microsoft.com/)
   <br>
   <br>
 
@@ -55,7 +51,6 @@ I enjoy being challenged and developing applications with an exponential learnin
   [<img align="left" src=images/utils/prettier.svg height=30>](https://prettier.io/)
   [<img align="left" src=images/utils/eslint.svg height=30>](https://eslint.org/)
   [<img align="left" src=images/utils/jest.svg height=30>](https://jestjs.io/)
-  [<img align="left" src=images/utils/lodash.svg height=30>](https://lodash.com/)
   [<img align="left" src=images/utils/momentjs.svg height=30>](https://momentjs.com/)
   [<img align="left" src=images/utils/terminal.svg height=30>](https://ohmyz.sh/)
   <br>
@@ -67,7 +62,6 @@ I enjoy being challenged and developing applications with an exponential learnin
     <br>
     <br>
     [<img align="left" src=images/version-control/github.svg height=30>](https://github.com/)
-    [<img align="left" src=images/version-control/gitlab.svg height=30>](https://about.gitlab.com/)
     [<img align="left" src=images/version-control/bitbucket.svg height=30>](https://bitbucket.org/)
     <br>
     <br>
@@ -77,8 +71,6 @@ I enjoy being challenged and developing applications with an exponential learnin
     [<img align="left" src=images/project-management/jira.svg height=30>](https://www.atlassian.com/software/jira)
     [<img align="left" src=images/project-management/trello.svg height=30>](https://trello.com/)
     [<img align="left" src=images/project-management/slack.svg height=30>](https://slack.com/)
-    [<img align="left" src=images/project-management/zeplin.svg height=30>](https://zeplin.io/)
-    [<img align="left" src=images/project-management/slides.svg height=30>](https://slides.com/vinaysharma7811)
     <br>
     <br>
   - **Code Editor & Package Manager**
