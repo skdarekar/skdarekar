@@ -1,16 +1,15 @@
 # Hi there 👋
 
 I am Sagar. Thanks for dropping by! I love developing Full Stack Web applications.
-I enjoy being challenged and developing applications with an exponential learning curve. I have a knack for self learning and usually read articles at Medium, HackerNoon, DEV.TO and contribute to [Stack Overflow](https://stackoverflow.com/users/12541413/sagar-darekar?tab=profile) regularly. I enjoy being challenged and developing applications with an exponential learning curve.
+I enjoy being challenged and developing applications with an exponential learning curve. I have a knack for self learning and usually read articles at Medium, HackerNoon, DEV.TO and contribute to [Stack Overflow](https://stackoverflow.com/users/12541413/sagar-darekar?tab=profile). I enjoy being challenged and developing applications with an exponential learning curve.
 
-- 🏢 SDE at at [LogiQuad Solutions](https://logiquad.com/).
+- 🏢 SDE at [LogiQuad Solutions](https://logiquad.com/).
 - 🌱 I'm currently honing my Full Stack development skills.
 - 🌍 I'm mostly active in the **React JS, Serverless & Node JS Community**.
 - ⚙️ I daily use `.html` `.css` `.scss` `.json` `.tsx` `.jsx` `.ts` `.js`
-- 🥅 2021 Goals: Contributing more to open source.
+<!-- - 🥅 2021 Goals: Contributing more to open source. -->
 - 💬 Ask me about: **Full Stack development**, **Code Architecture**, **UI & UX**.
 - 📄 Find my resume [here](https://drive.google.com/file/d/1DLB4TtlYo_nyL6hwN7imeWtnLXZeexqN/view).
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I don't have girlfriend!
 ## Technologies & Tools 🛠️
 
@@ -22,9 +21,9 @@ I enjoy being challenged and developing applications with an exponential learnin
   [<img align="left" src=images/front-end/sass.svg height=30>](https://sass-lang.com/)
 
   [<img align="left" src=images/front-end/tailwindcss.svg height=30>](https://tailwindcss.com/)
-  [<img align="left" src=images/front-end/js.svg height=30>](https://www.w3schools.com/js/DEFAULT.asp)
+  [<img align="left" src=images/front-end/js.svg height=30>](https://www.javascript.com/)
   [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
-  [<img align="left" src=images/front-end/es6.svg height=30>](https://www.w3schools.com/js/js_es6.asp)
+  [<img align="left" src=images/front-end/es6.svg height=30>](http://es6-features.org/#Constants)
   [<img align="left" src=images/front-end/react.svg height=30>](https://reactjs.org/)
   [<img align="left" src=images/front-end/react-router.svg height=30>](https://reactrouter.com/)
   [<img align="left" src=images/front-end/redux.svg height=30>](https://react-redux.js.org/)
