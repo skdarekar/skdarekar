@@ -37,9 +37,11 @@ I enjoy being challenged and developing applications with an exponential learnin
   [<img align="left" src=images/back-end/express.svg height=30>](https://expressjs.com/)
   [<img align="left" src=images/back-end/json.svg height=30>](https://www.json.org/json-en.html)
   [<img align="left" src=images/back-end/pylogo.svg height=30>](https://www.python.org/)
+  [<img align="left" src=images/back-end/mysql.svg height=30>](https://www.mysql.com/)
   [<img align="left" src=images/back-end/mongodb.svg height=30>](https://www.mongodb.com/)
   [<img align="left" src=images/cloud/aws.svg height=30>](https://aws.amazon.com/)
-  [<img align="left" src=images/cloud/firebase.svg height=30>](https://firebase.google.com/)
+  [<img align="left" src=images/back-end/aws-dynamodb.svg height=30>](https://aws.amazon.com/dynamodb/)
+  [<img align="left" src=images/back-end/aws-lambda.svg height=30>](https://aws.amazon.com/lambda/)
   <br>
   <br>
 
@@ -52,7 +54,6 @@ I enjoy being challenged and developing applications with an exponential learnin
   [<img align="left" src=images/utils/eslint.svg height=30>](https://eslint.org/)
   [<img align="left" src=images/utils/jest.svg height=30>](https://jestjs.io/)
   [<img align="left" src=images/utils/momentjs.svg height=30>](https://momentjs.com/)
-  [<img align="left" src=images/utils/terminal.svg height=30>](https://ohmyz.sh/)
   <br>
   <br>
 
