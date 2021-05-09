@@ -93,3 +93,5 @@ I enjoy being challenged and developing applications with an exponential learnin
 - GitHub: https://github.com/skdarekar
 - LinkedIn: https://www.linkedin.com/in/sagar-darekar/
 - Stack Overflow: https://stackoverflow.com/users/12541413/sagar-darekar?tab=profile
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skdarekar&label=Profile%20views&color=0e75b6&style=flat" alt="skdarekar" /> </p>
