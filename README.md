@@ -6,9 +6,9 @@ I enjoy being challenged and developing applications with an exponential learnin
 - 🏢 SDE at [LogiQuad Solutions](https://logiquad.com/).
 - 🌱 I'm currently honing my Full Stack development skills.
 - 🌍 I'm mostly active in the **JavaScript, React JS, Serverless & Node JS Community**.
-- ⚙️ I daily use `.js` `.ts` `.tsx` `.jsx` `.yml` `.html` `.css` `.json` 
-- 💬 Ask me about: **Full Stack development**, **Code Architecture**, **UI & UX**.
-- 📄 Find my resume [here](https://drive.google.com/file/d/1DLB4TtlYo_nyL6hwN7imeWtnLXZeexqN/view).
+- ⚙️ I daily use `.js` `.ts` `.yml` `.html` `.css` `.json` 
+- 💬 Ask me about: **Full Stack development**, **Data Structures**, **UI & UX**.
+- 📄 Find my resume [here](https://drive.google.com/file/d/1OEmtt4dWSYxBsqaFBgJDhkLtZAtijOcd/view).
 - ⚡ Fun fact: I don't have girlfriend!
 <!-- - 🥅 2021 Goals: Contributing more to open source. -->
 
