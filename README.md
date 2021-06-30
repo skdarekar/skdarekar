@@ -8,7 +8,7 @@ I enjoy being challenged and developing applications with an exponential learnin
 - 🌍 I'm mostly active in the **JavaScript, React JS, Serverless & Node JS Community**.
 - ⚙️ I daily use `.js` `.ts` `.yml` `.html` `.css` `.json` 
 - 💬 Ask me about: **Full Stack development**, **Data Structures**, **UI & UX**.
-- 📄 Find my resume [here](https://drive.google.com/file/d/1OEmtt4dWSYxBsqaFBgJDhkLtZAtijOcd/view).
+<!-- - 📄 Find my resume [here](https://drive.google.com/file/d/1OEmtt4dWSYxBsqaFBgJDhkLtZAtijOcd/view). -->
 - ⚡ Fun fact: I don't have girlfriend!
 <!-- - 🥅 2021 Goals: Contributing more to open source. -->
 
