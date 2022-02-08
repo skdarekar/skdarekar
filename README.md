@@ -81,6 +81,8 @@ I enjoy being challenged and developing applications with an exponential learnin
     [<img align="left" src=images/tools/npm.svg height=30>](https://www.npmjs.com/)
     <br>
     <br>
+## Contrubution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skdarekar&theme=dracula&hide_border=true)
 
 ## GitHub Stats 📊
 
