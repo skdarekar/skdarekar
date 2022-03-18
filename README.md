@@ -5,7 +5,7 @@ I enjoy being challenged and developing applications with an exponential learnin
 
 - 🏢 SDE at [LogiQuad Solutions](https://logiquad.com/).
 - 🌱 I'm currently honing my Full Stack development skills.
-- 🌍 I'm mostly active in the **JavaScript, React JS, Serverless & Node JS Community**.
+- 🌍 I'm mostly active in the **JavaScript, React JS, AWS Serverless & Node JS Community**.
 - ⚙️ I daily use `.js` `.ts` `.yml` `.html` `.css` `.json` 
 - 💬 Ask me about: **Full Stack development**, **Data Structures**, **UI & UX**.
 <!-- - 📄 Find my resume [here](https://drive.google.com/file/d/1OEmtt4dWSYxBsqaFBgJDhkLtZAtijOcd/view). -->
