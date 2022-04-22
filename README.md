@@ -3,7 +3,7 @@
 I am Sagar. Thanks for dropping by! I work as a full-time software engineer.
 I enjoy being challenged and developing applications with an exponential learning curve. I have a knack for self learning and usually read articles at Medium, HackerNoon, daily.dev and contribute to [Stack Overflow](https://stackoverflow.com/users/12541413/sagar-darekar?tab=profile).
 
-- 🏢 SDE at [LogiQuad Solutions](https://logiquad.com/).
+- 🏢 SDE at [E-Zest Solutions](https://www.e-zest.com/).
 - 🌱 I'm currently honing my Full Stack development skills.
 - 🌍 I'm mostly active in the **JavaScript, React JS, AWS Serverless & Node JS Community**.
 - ⚙️ I daily use `.js` `.ts` `.yml` `.html` `.css` `.json` 
